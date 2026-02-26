@@ -1,0 +1,23 @@
+*,
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: bold;
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
